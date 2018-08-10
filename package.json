@@ -1,0 +1,19 @@
+{
+  "name": "dbms-basics-recap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginotria/dbms-basics-recap.git"
+  },
+  "author": "Gino Tria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginotria/dbms-basics-recap/issues"
+  },
+  "homepage": "https://github.com/ginotria/dbms-basics-recap#readme"
+}
