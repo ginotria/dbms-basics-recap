@@ -1,0 +1,12 @@
+DBMS Basics Review
+
+1. Create Github Project
+2. Clone Github Project Locally
+3. Initialize Project (npm init)
+4. Install Express
+5. Create app.js
+6. Setup Server ('Hello World')
+    - import express in app.js
+    - initialize "app"
+    - setup server port
+7. Add start script (use nodemon) in package.json
